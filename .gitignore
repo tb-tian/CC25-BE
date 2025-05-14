@@ -1,7 +1,7 @@
 # ew
 .vscode
 Simulator/Match/Players/*
-Simulator/Players/
+Simulator/Players/*
 Simulator/__pycache__/
 *.exe
 
